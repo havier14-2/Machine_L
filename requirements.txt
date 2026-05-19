@@ -1,0 +1,18 @@
+# Manipulación y Análisis de Datos
+pandas
+numpy
+openpyxl
+
+# Visualización
+matplotlib
+seaborn
+
+# Machine Learning y Preprocesamiento
+scikit-learn
+imbalanced-learn
+
+# Modelos Avanzados
+xgboost
+
+# Herramientas para VS Code
+ipykernel
